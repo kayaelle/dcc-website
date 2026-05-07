@@ -56,6 +56,13 @@ title: DCC Recommended Standards
         <td>OID4VP</td>
         <td>Roadmap</td>
       </tr>
+	<tr>
+        <td><a href="https://digitalcredentials.github.io/wallet-attached-storage-spec/" target="_blank">Wallet Attached Storage</a></td>
+        <td>Storage API</td>
+        <td>0.2</td>
+        <td>WAS</td>
+        <td>Introducing to W3C</td>
+      </tr>
       <tr>
         <td><a href="https://www.w3.org/TR/vc-bitstring-status-list/" target="_blank">W3C Bitstring Status List</a></td>
         <td>Credential Status Information</td>
