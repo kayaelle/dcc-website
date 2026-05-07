@@ -35,6 +35,13 @@ title: DCC Recommended Standards
         <td>&nbsp;</td>
         <td>Yes</td>
       </tr>
+	<tr>
+        <td><a href="https://identity.foundation/edv-spec/" target="_blank">Encrypted Data Vaults</a></td>
+        <td>Data Storage</td>
+        <td>0.1</td>
+        <td>EDV</td>
+        <td>Exploring</td>
+      </tr>
       <tr>
         <td><a href="https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html" target="_blank">OpenID for Verifiable Credential Issuance</a></td>
         <td>API</td>
