@@ -322,7 +322,7 @@ a.dropdown-item:hover {
   margin-bottom: 2.5rem;
 }
 
-.header-links {
+.header-links a {
   color: var(--white);
 }
 
