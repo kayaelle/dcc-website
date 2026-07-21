@@ -85,10 +85,6 @@ h2 {
   margin-bottom: -0.5rem;
 }
 
-h2 a.header-links {
-  color: var(--white);
-}
-
 h3 {
   color: var(--black);
   font-weight: 700;
@@ -324,6 +320,10 @@ a.dropdown-item:hover {
 .home-header .content {
   margin-top: 2.5rem;
   margin-bottom: 2.5rem;
+}
+
+.header-links {
+  color: var(--white);
 }
 
 .announcement {
