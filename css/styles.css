@@ -323,7 +323,11 @@ a.dropdown-item:hover {
 }
 
 .announcement {
-  font-size: 2.25rem;
+  font-size: 1.7rem;
+  color: var(--white);
+}
+
+.announcement a {
   color: var(--white);
 }
 
