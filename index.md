@@ -12,7 +12,7 @@ call-to-action:
   <header>
   <div class="container-md content" markdown="1">
 
-  <div class="announcement">The Digital Credentials Consortium has moved to the [Strada Education Foundation](https://www.strada.org/) and renamed the [Digital Credentials Commons](https://dccommons.org/). [Learn more about the move](https://www.strada.org/news-insights/strada-announced-as-new-host-for-digital-credentials-consortium).</div>
+  <div class="announcement">The Digital Credentials Consortium has moved to the <a href="https://www.strada.org/" target="_blank">Strada Education Foundation</a> and renamed the <a href="https://dccommons.org/" target="_blank">Digital Credentials Commons</a>. <a href="https://www.strada.org/news-insights/strada-announced-as-new-host-for-digital-credentials-consortium" target="_blank">Learn more about the move</a>.</div>
 
 # The Digital Credentials Consortium is advancing the understanding and use of privacy-enhanced, portable, verifiable digital credentials in higher education through open source technology development and leadership, research, and advocacy.
 
