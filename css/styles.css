@@ -329,7 +329,8 @@ a.dropdown-item:hover {
 .announcement {
   font-size: 1.4rem;
   color: var(--white);
-  text-align: center;
+  text-align: center !important;
+  margin-bottom: 2.5rem;
 }
 
 .announcement a {
