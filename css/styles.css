@@ -308,7 +308,7 @@ a.dropdown-item:hover {
 }
 
 .home-header a {
-  color: var(--link-light);
+  color: var(--maroon);
   text-decoration: underline;
 }
 
@@ -322,8 +322,9 @@ a.dropdown-item:hover {
   margin-bottom: 2.5rem;
 }
 
-.home-header .content .announcement {
+.announcement {
   font-size: 2.25rem;
+  color: var(--white);
 }
 
 .home-header p {
