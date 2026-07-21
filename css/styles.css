@@ -68,7 +68,7 @@ a {
 h1 {
   font-weight: lighter;
   line-height: 3.125rem;
-  font-size: 2rem;
+  font-size: 1.75rem;
   line-height: 3.75rem;
   letter-spacing: -0.7px;
   color: var(--white);
@@ -83,6 +83,10 @@ h2 {
   letter-spacing: -0.4px;
   margin-top: .75rem;
   margin-bottom: -0.5rem;
+}
+
+h2 a.header-links {
+  color: var(--white);
 }
 
 h3 {
@@ -323,8 +327,9 @@ a.dropdown-item:hover {
 }
 
 .announcement {
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   color: var(--white);
+  text-align: center;
 }
 
 .announcement a {
